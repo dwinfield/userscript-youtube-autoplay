@@ -13,7 +13,7 @@
 
 $(function() { 
   
-  setInterval(function() {
+  setTimeout(function() {
     $('#toggle').click();    
   }, 5000); 
   
