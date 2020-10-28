@@ -2,7 +2,7 @@
 // @name        Youtube Disable Autoplay Related Videos
 // @match       *://*youtube.com/*
 // @grant       none
-// @version     1.0.1
+// @version     1.0.2
 // @author      Dave Winfield
 // @description Turns off the "Autoplay" feature
 // @require     https://code.jquery.com/jquery-3.4.1.slim.min.js
